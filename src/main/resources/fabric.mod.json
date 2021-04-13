@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "sirenhead",
+  "version": "1.0.0-Beta1",
+
+  "name": "Siren Head mod",
+  "description": "This mod supports fabric 1.16.4! The filipino translation is not very accurate though do pls forgive me.",
+  "authors": [
+    "Jed"
+  ],
+  "contact": {
+    "homepage": "https://curseforge.com/minecraft/mc-mods/siren-head-boss-mob",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/sirenhead/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.don16ell.sirenhead.SirenHead"
+    ]
+  },
+  "mixins": [
+
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

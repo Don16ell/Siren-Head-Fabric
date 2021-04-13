@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "sirenhead:stone_blade"
+    }
+  },
+  "result": {
+    "item": "sirenhead:hunter_sword"
+  }
+}
