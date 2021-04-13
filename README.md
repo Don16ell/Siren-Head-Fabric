@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# Siren Head Mod
 
 ## Setup
 
